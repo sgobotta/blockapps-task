@@ -1,0 +1,14 @@
+.sw-category-list-item {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: space-between;
+
+  &__sw-link {
+    height: 100%;
+    color: black;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+}
